@@ -28,7 +28,7 @@ switch (signal) {
     case 'yellow':
         console.log('You should stop');
         break;
-        break;
+
     default:
         console.log('You stay here.and safe.');
 }
