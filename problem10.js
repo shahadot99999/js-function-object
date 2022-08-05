@@ -9,14 +9,8 @@ const pizza = {
     serves: 2
 
 }
+console.log(pizza.toppings[2]);
 
 
-//const shoppingCart = {
 
-
-// const keys = Object.keys(pizza);
-// console.log(keys);
-
-const value = Object.values(pizza);
-console.log(value);
 
